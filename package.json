@@ -6,11 +6,13 @@
   ],
   "homepage": "https://github.com/guym-blox/keystore.git",
   "bugs": "https://github.com/you/my-new-project/issues",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "handle extraction from keystore",
   "main": "src/index.ts",
   "repository": "https://github.com/guym-blox/keystore.git",
-  "files": ["lib/**/*"],
+  "files": [
+    "lib/**/*"
+  ],
   "author": "guy muroch",
   "license": "MIT",
   "dependencies": {
