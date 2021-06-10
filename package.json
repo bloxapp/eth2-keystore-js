@@ -6,7 +6,7 @@
   ],
   "homepage": "https://github.com/guym-blox/keystore.git",
   "bugs": "https://github.com/you/my-new-project/issues",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "handle extraction from keystore",
   "main": "lib/index.ts",
   "types": "lib/index.d.ts",
