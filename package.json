@@ -10,6 +10,7 @@
   "description": "handle extraction from keystore",
   "main": "src/index.ts",
   "repository": "https://github.com/guym-blox/keystore.git",
+  "files": ["lib/**/*"],
   "author": "guy muroch",
   "license": "MIT",
   "dependencies": {
