@@ -50,7 +50,7 @@ interface V4Keystore {
  *  const password = 'testtest';
  *  console.log('Private Key:', await keyStore.getPrivateKey(password));
  */
-export default class EthereumKeyStore {
+ class EthereumKeyStore {
   private readonly keyStoreData: any;
   private privateKey: string = "";
   private wallet: Wallet | undefined;
@@ -225,3 +225,4 @@ export default class EthereumKeyStore {
     }).join("");
   }
 }
+export default EthereumKeyStore

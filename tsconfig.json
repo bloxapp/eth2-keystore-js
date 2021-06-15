@@ -5,6 +5,7 @@
     "module": "commonjs",
     "outDir": "./lib",
     "strict": true,
+    "declaration": true,
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
